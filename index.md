@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Data-Scopes
 
-You can use the [editor on GitHub](https://github.com/Data-Scopes/Data-Scopes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Data Scopes is a concept for dealing with complex data in a humanities research context. With this concept we want to communicate to contribute to methodological reflection on the processes of preparing and analyzing humanities research data, and how they shape and contribute to interpretation. The Data Scopes concept and framework were developed by [Rik Hoekstra](https://www.researchgate.net/profile/Rik_Hoekstra) and [Marijn Koolen](https://marijnkoolen.com/#/) at the [Humanities Cluster](https://huc.knaw.nl) of the [Royal Netherlands Academy of Arts and Sciences](https://knaw.nl/nl).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Understanding Data through Data Scopes
 
-### Markdown
+- [Data Scopes and Scale](https://data-scopes.github.io/scale/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Workshops
 
-```markdown
-Syntax highlighted code block
+There have been a number of workshops on Data Scopes:
 
-# Header 1
-## Header 2
-### Header 3
+- [Data Scopes for digital humanities researchers 2019](https://data-scopes.github.io/Data-Scopes-2019/) (in Dutch)
+- [Data Scopes for developers 2018](https://data-scopes.github.io/Data-Scopes-Developers-2018/) (in English)
+- [Data Scopes for digital humanities researchers 2018](https://data-scopes.github.io/Data-Scopes-2018/) (in Dutch)
 
-- Bulleted
-- List
+## Literature
 
-1. Numbered
-2. List
+- Rik Hoekstra, Marijn Koolen. [Data Scopes for Digital History Research](https://www.tandfonline.com/doi/full/10.1080/01615440.2018.1484676). Historical Methods: A Journal of Quantitative and Interdisciplinary History, Volume 51, no. 3, pages 1-16, 2018. ([preprint](https://www.researchgate.net/publication/328982105_Data_scopes_for_digital_history_research))
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Data-Scopes/Data-Scopes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Rik Hoekstra, Marijn Koolen, Marijke van Faassen. [Data Scopes: towards Transparent Data Research in Digital Humanities](https://dh2018.adho.org/en/data-scopes-towards-transparent-data-research-in-digital-humanities/). In Digital Humanities 2018, DH 2018, Book of Abstracts, El Colegio de Mexico, UNAM, and RedHD, Mexico City, Mexico, June 26-29, 2018, pages 211, 2018.
